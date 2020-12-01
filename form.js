@@ -112,14 +112,14 @@ this.jun.mousePressed(()=>{
 
 
 
-
+/*
 this.scan.mousePressed(()=>{
     scanToJpg()
     textSize(30)
     fill("blue")
     text("scan the front book of the image which has the bookName and the Author name",displayWidth/2,displayHeight/2-80)
     
-})
+})*/
 //}
 /*next(){
     
