@@ -15,7 +15,7 @@ function preload(){
     //car4img=loadImage("../image/car4.png")
    // groundIMG=loadImage("../image/ground.png")
    // trackIMG=loadImage("../image/track.jpg")
-   kakooz_Img=loadImage("../image/kakooz.png")
+//   kakooz_Img=loadImage("../image/kakooz.png")
 }
 
 function setup(){
@@ -73,7 +73,7 @@ function draw(){
     
 }
 
-function scanToJpg() {
+/*function scanToJpg() {
     scanner.scan(displayImagesOnPage,
     {
        "output_settings" :
@@ -85,7 +85,7 @@ function scanToJpg() {
        ]
     }
     );
- }
+ }*/
 
 
 /*function readPosition(data){
